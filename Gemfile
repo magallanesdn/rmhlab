@@ -24,8 +24,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   gem 'sqlite3'
-  gem 'pry'
-  gem 'byebug'
 end
 
 group :development do
